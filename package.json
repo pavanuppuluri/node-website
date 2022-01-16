@@ -1,0 +1,12 @@
+{
+  "name": "website",
+  "version": "12.22.9",
+  "description": "My personal website developed in Node.js",
+  "main": "mywebsite.js",
+  "scripts": {
+    "start": "node mywebsite.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavan Uppuluri",
+  "license": "MIT"
+}
