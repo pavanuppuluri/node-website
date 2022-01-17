@@ -1,7 +1,7 @@
 # node-website
-Website developed in Node and deployed on Heroku
+This repo contains code of a personal website developed in Node.js and deployed on Heroku.
 
-This is contains code of a simple personal website in Node.js
+
 
 **Node.js concepts used**
 * http server
