@@ -12,6 +12,9 @@ This repo contains code of a personal website developed in Node.js and deployed 
 * Bootstrap for styling
 * JavaScript
 
+* <b>Home Page</b>
+  ![Screenshot](Home_Page.PNG)
+
 **Demo**
 
 https://user-images.githubusercontent.com/63893920/149659683-d29373f8-a184-416d-b1de-4352f9186ee9.mp4
