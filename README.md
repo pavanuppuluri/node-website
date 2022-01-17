@@ -12,7 +12,7 @@ This repo contains code of a personal website developed in Node.js and deployed 
 * Bootstrap for styling
 * JavaScript
 
-* <b>Home Page</b>
+<b>Home Page</b>
   ![Screenshot](Home_Page.PNG)
 
 **Demo**
